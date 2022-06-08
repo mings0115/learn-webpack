@@ -1,2 +1,5 @@
 # learn-webpack
-캡틴판교 웹팩
+
+npm init -y
+npm i webpack webpack-cli -D
+npm i lodash
